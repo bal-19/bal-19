@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
+<img align="center" height="150" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
 
 ###
 
