@@ -7,7 +7,8 @@
   
 
 - 🌱 I’m currently learning Laravel  
-<br/>  
+<br/>
+
 ## My Skill Set  
 <div align="center"> 
 <table style="border: 0"><tr><td valign="top" width="33%">
