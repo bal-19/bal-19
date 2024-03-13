@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Iqbal and I'm a student from SMK PGRI 3 Malang and from Batu City</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
+</div>
 
 ###
 
@@ -7,12 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>  
 <br/>    
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
-</div>
 
 ###
 
