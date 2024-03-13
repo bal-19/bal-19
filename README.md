@@ -10,11 +10,11 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/YfGlACQRc_oAAAAC/paimon.gif"  />
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.instagram.com/i.iqbal19" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
