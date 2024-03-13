@@ -4,10 +4,6 @@
   
 
 ### <div align="center">Hi 👋! My name is iqbal and I'm from Indonesia</div>  
-  
-
-- 🌱 I’m currently learning Laravel  
-<br/>
 
 ## My Skill Set  
 <div align="center"> 
