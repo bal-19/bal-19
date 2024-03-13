@@ -27,7 +27,7 @@
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>   
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
@@ -53,7 +53,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bal-19&theme=radical&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal-19&theme=radical&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
