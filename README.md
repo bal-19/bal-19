@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bal-19/bal-19/output/snake.svg" alt="Snake animation" />
 
 ###
