@@ -13,6 +13,7 @@
 
 
 ## My Skill Set  
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -37,6 +38,7 @@
 </div>
 
 </td></tr></table>  
+</div>
 
 <br/>  
 
@@ -56,9 +58,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bal-19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bal-19&theme=radical&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal-19&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bal-19&theme=radical&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
