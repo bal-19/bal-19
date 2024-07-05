@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/636818437678694410?theme=dark&animated=true&borderRadius=20px&showDisplayName=true)](https://discord.com/users/636818437678694410)
+  <a href="https://discord.com/users/636818437678694410"><img src="https://lanyard.cnrad.dev/api/636818437678694410?theme=dark&animated=true&borderRadius=20px&showDisplayName=true" alt="Discord Presence"></a>
 </div>
 
 <div align="center">
