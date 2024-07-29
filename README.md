@@ -52,10 +52,6 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/636818437678694410" target="_blank"><img src="https://lanyard.cnrad.dev/api/636818437678694410?theme=dark&animated=true&borderRadius=20px&showDisplayName=true" alt="Discord Presence"></a>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/bal-19/bal-19/output/snake.svg" alt="Snake animation" />
 </div>
 
