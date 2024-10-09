@@ -23,5 +23,5 @@ jobs:
               with:
                   username: bal19
                   themes: trance
-                  target-branch: 
+                  target-branch: output
                   github-token: ${{ secrets.GITHUB_TOKEN }}
