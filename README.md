@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bal-19&theme=midnight-purple&locale=en&card_width=499">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bal-19&theme=midnight-purple&mode=weekly&card_width=499">
 </p>
 
 ###
