@@ -15,6 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
+          CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: Binary YAML JSON TOML
