@@ -15,7 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
-          LANG_COUNT: 4
-          CODE_LANG: python php js html
-          SHOW_TIME: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
+          IGNORED_LANGUAGES: Binary YAML JSON TOML
