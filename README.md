@@ -17,6 +17,16 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```python php js html
+Total Time: 34 mins
+
+Python     29 mins         █████████████████████▒░░░   85.14 %
+Markdown   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Docker     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
