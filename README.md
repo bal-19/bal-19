@@ -16,6 +16,7 @@
 
 ###
 
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```python php js html
@@ -28,6 +29,7 @@ INI        0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</div>  
 
 ###
 
