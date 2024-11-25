@@ -19,7 +19,7 @@
 <div align="center">
 <!--START_SECTION:waka-->
 
-```python
+```rust
 Total Time: 34 mins
 
 Python     29 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.14 %
