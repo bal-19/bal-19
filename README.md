@@ -20,12 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 34 mins
+Total Time: 6 hrs 44 mins
 
-Python     29 mins         #####################----   85.14 %
-Markdown   2 mins          ##-----------------------   08.31 %
-Docker     2 mins          #------------------------   05.85 %
-INI        0 secs          -------------------------   00.69 %
+Python       5 hrs 27 mins   ####################-----   80.65 %
+PHP          35 mins         ##-----------------------   08.71 %
+Text         27 mins         ##-----------------------   06.66 %
+Markdown     6 mins          -------------------------   01.63 %
+Docker       4 mins          -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
