@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Iqbal and I'm a student from SMK PGRI 3 Malang and from Batu City</h2>
+<h2 align="left">Hi 👋! My name is Iqbal</h2>
 
 ###
 
