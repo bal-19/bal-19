@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 190 hrs 59 mins
+Total Time: 192 hrs 6 mins
 
-Python           66 hrs 11 mins  #########----------------   34.57 %
-PHP              61 hrs 29 mins  ########-----------------   32.12 %
-Blade Template   36 hrs 12 mins  #####--------------------   18.92 %
-JavaScript       8 hrs 51 mins   #------------------------   04.62 %
-TypeScript       4 hrs 12 mins   #------------------------   02.20 %
+Python           66 hrs 11 mins  #########----------------   34.37 %
+PHP              61 hrs 29 mins  ########-----------------   31.93 %
+Blade Template   36 hrs 12 mins  #####--------------------   18.81 %
+JavaScript       9 hrs 56 mins   #------------------------   05.17 %
+TypeScript       4 hrs 12 mins   #------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
